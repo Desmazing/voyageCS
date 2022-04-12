@@ -13,7 +13,7 @@ namespace myproject
             fname = Console.ReadLine();
             Console.WriteLine("Enter your last name: ");
             lname = Console.ReadLine();
-            Console.Write("Your full name is "+fname+" "+lname);
+            Console.Write("Welcome "+fname+" "+lname);
 
         }
     }
